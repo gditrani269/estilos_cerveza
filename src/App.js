@@ -22,7 +22,7 @@ class App extends Component {
                         onContentClear={sasa => {
                                 console.log ("content clear", sasa)
 
-                        }} inText="holitas"
+                        }} inText="sin holitas"
                  />
             </div>
         )
